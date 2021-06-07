@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on myself
-- 🌱 I’m currently studying Biological Engineering :microscope:
+- 🌱 I’m currently studying Biological Engineering :microscope: :dna:
 - :books: National University of Colombia - UN 🚩
 - :muscle: :swimmer: :tennis: I love sports
 - ⚡ Fun fact: Vzla/Col
