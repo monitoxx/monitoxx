@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently studying Biological Engineering 🔬 🧬
-- 📚 National University of Colombia - UN 🚩
+- 📚 National University of Colombia - UNAL 🚩
 - 💪 🏊 🎾 I love sports
 - ⚡ Fun fact: Vzla/Col
 - 🎵 I like to listen to Queen and The Weeknd. Also, Simón Díaz 𓏢
