@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📚 National University of Colombia - UNAL 🚩
 - 💪 🏊 🎾 I love sports
 - ⚡ Fun fact: Vzla/Col
-- 🎵 I like to listen to Queen and The Weeknd. Also, Simón Díaz 𓏢
+- 🎵 I like to listen to Queen and The Weeknd
 - 🎸 I´m learning how to play the Guitar
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
