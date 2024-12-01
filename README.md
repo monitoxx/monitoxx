@@ -1,19 +1,13 @@
 ### Hi there 👋
 
-<!--
-**monitoxx/monitoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on myself
-- 🌱 I’m currently studying Biological Engineering 🔬 🧬
+- 🌱 Studying Biological Engineering 🔬 🧬
 - 📚 National University of Colombia - UNAL 🚩
 - 💪 🏊 🎾 I love sports
 - ⚡ Fun fact: Vzla/Col
-- 🎵 I like to listen to Queen and The Weeknd
+- 🎵 I love to listen to Queen, The Weeknd and Luis Miguel
 - 🎸 I´m learning how to play the Guitar
-<!--- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
+- 👨‍🔬 Ask me about Molecular Biology, Virology, Culture of Cells!
+- 📫 How to reach me: ljimenezbe@unal.edu.co
+- 🤔 I’m looking for help with Bioinformatics
+
