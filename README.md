@@ -8,6 +8,9 @@
 - 🎵 I love to listen to Queen, The Weeknd and Luis Miguel
 - 🎸 I´m learning how to play the Guitar
 - 👨‍🔬 Ask me about Molecular Biology, Virology, Culture of Cells!
-- 📫 How to reach me: ljimenezbe@unal.edu.co
+- 📫 Contact me at my <a href="[https://www.linkedin.com/in/luis-javier-jimenez-bernal-2bb761263]">LinkedIn</a> 💼 
 - 🤔 I’m looking for help with Bioinformatics
+
+![Visitor Count](https://profile-counter.glitch.me/monitoxx/count.svg)
+
 
