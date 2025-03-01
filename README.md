@@ -9,18 +9,19 @@
   </a>
 </h1>
 
-- 🔭 I’m currently working on myself
-- 🌱 Studying Biological Engineering 🔬 🧬
 - 📚 National University of Colombia - UNAL 🚩
-- 💪 🏊 🎾 I love sports
+- 🌱 Studying Biological Engineering 🔬 🧬
+- 🔭 I’m currently working on improving myself
+- 👨‍🔬 Ask me about Molecular Biology, Microbiology, Virology, Culture of Cells!
+- 📫 Contact me at my <a href="https://www.linkedin.com/in/luis-javier-jimenez-bernal-2bb761263">LinkedIn</a> 💼 
+- 🤔 I’m looking for help with Bioinformatics
+<!--- 💪 🏊 🎾 I love sports
 - ⚡ Fun fact: Vzla-Col
 - 🎵 I love to listen to Queen, The Weeknd and Luis Miguel
 - 🎸 I´m learning how to play the Guitar
-- 👨‍🔬 Ask me about Molecular Biology, Virology, Culture of Cells!
-- 📫 Contact me at my <a href="https://www.linkedin.com/in/luis-javier-jimenez-bernal-2bb761263">LinkedIn</a> 💼 
-- 🤔 I’m looking for help with Bioinformatics
+--->
 
-## What I've done:
+## What I've done so far:
   <div>
     <a href="https://github.com/monitoxx/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monitoxx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
